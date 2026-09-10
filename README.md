@@ -35,8 +35,8 @@ After modeling and visualizing the data, here is what the numbers revealed:
 
 ## 📂 What is in this Repository?
 * `CRM_Sales_Analysis.sql`: The complete SQL script containing my database creation structure (DDL) and initial exploratory queries.
-* `B2B_Sales_Dashboard.pdf`: A static export of the final Power BI dashboard.
-* `Dashboard_Screenshot.png`: A high-resolution look at the visual insights.
+* `Dashboard.pdf`: A static export of the final Power BI dashboard.
+* `Screenshot.png`: A high-resolution look at the visual insights.
 
 ---
 *Thanks for stopping by! I am always open to chatting about data analytics, business strategy, or this project. Let's connect!*
