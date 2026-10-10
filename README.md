@@ -17,6 +17,9 @@ Sales managers often have a hard time seeing the "big picture" when data is scat
 2. Which product lines drive our highest margins?
 3. Where is our sales funnel leaking?
 
+
+![Dashboard Overview](Screenshot%202026-09-10%20093243.png)
+
 ## 💡 Key Business Insights & Recommendations
 
 After modeling and visualizing the data, here is what the numbers revealed:
